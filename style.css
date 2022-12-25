@@ -1,3 +1,19 @@
+* {
+  background-color: #cbedd5;
+}
+
 #root {
-    background-color: red;
+  background-color: #97dece;
+}
+
+#heading1 {
+  background-color: #97dece;
+}
+
+#heading2 {
+  background-color: #97dece;
+}
+
+#container {
+  background-color: #97dece;
 }
